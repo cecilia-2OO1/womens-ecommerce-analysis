@@ -37,7 +37,6 @@ Ce projet de data analyse porte sur un jeu de données contenant plus de 20 000 
 
 - `notebook.ipynb` : code complet du projet, structuré par étapes
 - `Womens Clothing E-Commerce Reviews.csv` : jeu de données d'origine
-- `captures/` : images des graphiques (facultatif)
 
 ---
 
